@@ -1,6 +1,6 @@
 # Olá, eu sou a Melissa 👋
 
-Estudante de Ciências Biológicas na Uni-CV e futura educadora de ciências 🌱 Apaixonada por educação ambiental e divulgação científica, com experiência em laboratório e interpretação de dados. Gosto de explicar ciência de forma simples. Procuro oportunidades de estágio em ensino e saúde, onde possa aprender e contribuir para a sociedade. Cabo Verde 🇨🇻
+Estudante de Ciências Biológicas na Uni-CV e futura educadora de ciências 🌱 Apaixonada por educação ambiental e divulgação científica, com experiência em laboratório e interpretação de dados. Gosto de explicar ciência de forma simples. Procuro oportunidades de estágio em ensino, onde possa aprender e contribuir para a sociedade. Cabo Verde 🇨🇻
 
 ## 💡 Competências
 
