@@ -19,6 +19,17 @@ Estudante de Ciências Biológicas na Uni-CV e futura educadora de ciências �
 - Gestão de tempo
 - Facilidade em aprender novos softwares
 
+## 🎓 Formação em curso
+
+**Essenciais Activation | Skodji Digital, 2ª Edição** (iniciado em outubro de 2026)
+Programa do Governo de Cabo Verde, integrado no projeto Digital Cabo Verde, que prepara para a economia digital e o trabalho remoto. Curso de 108 horas, 100% online, com os módulos:
+- Cibersegurança
+- Operações e E-Commerce
+- Inovação e Empreendedorismo
+- Projeto final
+
+[skodjidigital.cv](https://www.skodjidigital.cv)
+
 ## 🛠️ Ferramentas
 
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
